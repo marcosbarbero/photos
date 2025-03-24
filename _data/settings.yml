@@ -7,7 +7,7 @@ disqus:
 google-ID: 'G-MPKV2X13L3'
 
 menu:
-- {name: 'Portfolio',  url: 'portfolio'}
+# - {name: 'Portfolio',  url: 'portfolio'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
