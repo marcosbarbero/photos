@@ -5,6 +5,55 @@ author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
+photos:
+  - image: /uploads/sample/1.jpg
+    caption: Flamingo - San Jose, US
+  - image: /uploads/sample/2.jpg
+    caption: Giraffe - Wellington, NZ
+  - image: /uploads/sample/3.jpg
+    caption: Penguin - Mexico City, MX
+  - image: /uploads/sample/4.jpg
+    caption: Kingfisher - London, GB
+  - image: /uploads/sample/5.jpg
+    caption: Zebra - Vegas, US
+  - image: /uploads/sample/6.jpg
+    caption: Fox - San Diego, US
+  - image: /uploads/sample/7.jpg
+    caption: Parrot - Queenstown, NZ
+  - image: /uploads/sample/8.jpg
+    caption: Peacock - Seattle, US
+  - image: /uploads/sample/9.jpg
+    caption: Pig - Bangkok, TH
+  - image: /uploads/sample/10.jpg
+    caption: Tiger - Montreal, CA
+  - image: /uploads/sample/11.jpg
+    caption: Pig - Reykjavik, IS
+  - image: /uploads/sample/12.jpg
+    caption: Cow - Mt Cook, NZ
+  - image: /uploads/sample/13.jpg
+    caption: Monkey - Canmore, CA
+  - image: /uploads/sample/14.jpg
+    caption: Turtle - New York, US
+  - image: /uploads/sample/15.jpg
+    caption: Donkey - Tahoe, US
+  - image: /uploads/sample/16.jpg
+    caption: Elephant - New York, US
+  - image: /uploads/sample/17.jpg
+    caption: Lizard - San Francisco, US
+  - image: /uploads/sample/18.jpg
+    caption: Eagle - Canmore, CA
+  - image: /uploads/sample/19.jpg
+    caption: Fox - Moeraki, NZ
+  - image: /uploads/sample/20.jpg
+    caption: Gorilla - Nelson, NZ
+  - image: /uploads/sample/21.jpg
+    caption: Monkey - ID
+  - image: /uploads/sample/22.jpg
+    caption: Bear - JA
+  - image: /uploads/sample/23.jpg
+    caption: Frog - ZA
+  - image: /uploads/sample/24.jpg
+    caption: Butterfly - Auckland, NZ
 ---
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
