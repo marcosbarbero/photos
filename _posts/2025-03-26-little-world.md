@@ -7,20 +7,19 @@ tags: [macro, photography]
 image: little-world-cover.jpg
 photos:
   - image: /uploads/little-world/cover.jpg
-    caption: little-world-cover
+    caption: White Blossom
   - image: /uploads/little-world/flower-ant.jpg
-    caption: little-world-cover
+    caption: Little Worker
   - image: /uploads/little-world/flower-blossom.jpg
-    caption: little-world-cover
+    caption: Pink Blossom
   - image: /uploads/little-world/flower-blue.jpg
-    caption: little-world-cover
+    caption: Vibrant Blue
   - image: /uploads/little-world/flower-mosquito.jpg
-    caption: little-world-cover
+    caption: Let me clean my hands
   - image: /uploads/little-world/flower-spider.jpg
-    caption: little-world-cover
+    caption: Let me enjoy Spring
   - image: /uploads/little-world/flower-spider-2.jpg
-    caption: little-world-cover
-  
+    caption: Let me enjoy Spring 2
 ---
 
 Spring is a season of renewal, a time when nature awakens with a burst of colors and life. Little World is a photo gallery that captures this magical transformation through the lens of macro photography, focusing on the intricate details of flowers and the tiny creatures that call them home.
